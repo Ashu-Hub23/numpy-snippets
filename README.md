@@ -1,21 +1,43 @@
-# np_pjs
-# NumPy Basics Project
+# 🧮 NumPy Basics Project
 
-This project notebook contains the examples of using **NumPy**, one of the most powerful libraries in Python for numerical computing.
+This repository contains hands-on examples and projects using *NumPy*, one of the most powerful libraries in Python for numerical computing.
 
-## Topics Covered:
-- NumPy Arrays and Array Creation
-- Array Indexing, Slicing and Sorting
-- Mathematical Operations
-- Useful NumPy Functions
+## 📘 Files Included
 
-## Tools Used :
-- Python 3.x
+- Pandas_01.ipynb — (rename if it's NumPy-related)
+- human.csv, human_poincd.csv, etc. — Datasets for practice
+- README.md — Project overview
+
+## ✨ Topics Covered
+
+- Array creation
+- Indexing & slicing
+- Broadcasting
+- Array math operations
+- Data loading from CSVs
+- NumPy with real datasets
+
+## 💡 Usage
+
+Open the Jupyter notebooks (*.ipynb) using:
+
+- Jupyter Notebook
+- [Google Colab](https://colab.research.google.com)
+- VS Code with Jupyter extension
+
+## 📁 Dataset Description
+
+- human.csv — Sample dataset for analysis
+- human_with_false_indexing.csv — Includes edge cases for testing slicing/indexing logic
+
+## 🔧 Tech Stack
+
+- Python
 - NumPy
 - Jupyter Notebook
+- CSV data handling
 
-## How to Run :
-1. Clone this repo or download the `.ipynb` file.
-2. Open in Jupyter Notebook.
-3. Run cells step-by-step to explore NumPy functionalities.
+## 👨‍💻 Author
 
+*Ashutosh Malviya*  
+GitHub: [Ashu-Hub23](https://github.com/Ashu-Hub23)
